@@ -1,2 +1,2 @@
-# Bird Classifier
+# Bird Classification
 The goal of this project is to predict the species of birds based on an image. The underlying data used is obtained from the [Caltech Computer Vision group](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) and contains a total of 11,788 images of North American birds each associated with one of 200 species labels. In training our model, we'll be using a curriculum learning approach in which we start by first training the model with low resolution images, then gradually increase the resolution throughout the training process.
